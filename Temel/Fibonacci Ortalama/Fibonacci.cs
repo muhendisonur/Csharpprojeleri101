@@ -24,6 +24,6 @@ public class FibonacciIslemler
         }
 
         
-        System.Console.WriteLine("Ortalama: " + (toplam / derinlikPara));
+        System.Console.WriteLine("Ortalama: " + (toplam / (derinlikPara + 2))); //dizinin ilk iki elamnı olan 1 ve 1 değerlerini de dahil etmek için derinlikpara değişkenine 2 ekledik
     }
 }
