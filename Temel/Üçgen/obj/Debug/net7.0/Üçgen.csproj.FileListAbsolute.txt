@@ -1,0 +1,15 @@
+C:\Users\muhen\Desktop\csharpprojeleri101\Temel\Üçgen\bin\Debug\net7.0\Üçgen.exe
+C:\Users\muhen\Desktop\csharpprojeleri101\Temel\Üçgen\bin\Debug\net7.0\Üçgen.deps.json
+C:\Users\muhen\Desktop\csharpprojeleri101\Temel\Üçgen\bin\Debug\net7.0\Üçgen.runtimeconfig.json
+C:\Users\muhen\Desktop\csharpprojeleri101\Temel\Üçgen\bin\Debug\net7.0\Üçgen.dll
+C:\Users\muhen\Desktop\csharpprojeleri101\Temel\Üçgen\bin\Debug\net7.0\Üçgen.pdb
+C:\Users\muhen\Desktop\csharpprojeleri101\Temel\Üçgen\obj\Debug\net7.0\Üçgen.csproj.AssemblyReference.cache
+C:\Users\muhen\Desktop\csharpprojeleri101\Temel\Üçgen\obj\Debug\net7.0\Üçgen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhen\Desktop\csharpprojeleri101\Temel\Üçgen\obj\Debug\net7.0\Üçgen.AssemblyInfoInputs.cache
+C:\Users\muhen\Desktop\csharpprojeleri101\Temel\Üçgen\obj\Debug\net7.0\Üçgen.AssemblyInfo.cs
+C:\Users\muhen\Desktop\csharpprojeleri101\Temel\Üçgen\obj\Debug\net7.0\Üçgen.csproj.CoreCompileInputs.cache
+C:\Users\muhen\Desktop\csharpprojeleri101\Temel\Üçgen\obj\Debug\net7.0\Üçgen.dll
+C:\Users\muhen\Desktop\csharpprojeleri101\Temel\Üçgen\obj\Debug\net7.0\refint\Üçgen.dll
+C:\Users\muhen\Desktop\csharpprojeleri101\Temel\Üçgen\obj\Debug\net7.0\Üçgen.pdb
+C:\Users\muhen\Desktop\csharpprojeleri101\Temel\Üçgen\obj\Debug\net7.0\Üçgen.genruntimeconfig.cache
+C:\Users\muhen\Desktop\csharpprojeleri101\Temel\Üçgen\obj\Debug\net7.0\ref\Üçgen.dll
